@@ -1,4 +1,5 @@
 # vueblog
+live demo: https://alekseyfedorov27.github.io/vue_blog_graphQL/dist/
 
 ## Project setup
 ```
